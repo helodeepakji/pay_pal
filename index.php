@@ -11,7 +11,7 @@
 <body>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input TYPE="hidden" name="cmd" value="_xclick">
-        <input TYPE="hidden" name="business" value="sb-i47qe36362575@business.com">
+        <input TYPE="hidden" name="business" value="sb-0bqx4314722316@business.example.com">
         <input TYPE="hidden" name="item_name" value="Laptop">
         <input TYPE="hidden" name="currency_code" value="USD">
         <input TYPE="hidden" name="amount" value="200">
